@@ -1,7 +1,7 @@
 {
-  "name": "OneEvents",
-  "short_name": "OneEvents",
-  "description": "Host, discover, and attend events \u2014 OneEvents by One World Labs.",
+  "name": "OneEvent",
+  "short_name": "OneEvent",
+  "description": "Host, discover, and attend events \u2014 OneEvent by One World Labs.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#08090b",
